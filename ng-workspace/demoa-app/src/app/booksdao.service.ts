@@ -15,7 +15,7 @@ export class BooksdaoService {
       ],
       description: 'A winner of the Nobel Peace Prize offers his vision of an emerging new economic system that can save humankind and the planet Muhammad Yunus, who created microcredit, invented social business and earned ..',
       publishdate: Date.now(),
-      discount: 0.1
+      discount: 0.1,
     },
     {
       name: 'Zero to One',
